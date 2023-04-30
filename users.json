@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "fullName": "Divyansh Sharma",
+  "email": "divyanshsharma8974@gmail.com",
+  "password": "a2e1afb03c35ee6fbc43e9987817ff8277638ac12b61b6c17bd15ad52173e42c",
+  "profileImageURL": "/images/pngegg.png",
+  "role": "USER",
+  "createdAt": {
+    "$date": "2023-04-28T20:18:05.308Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-28T20:18:05.308Z"
+  },
+  "salt": "쥱�+�6.kV��u�x\u0000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c313566eaa6b82bca0195"
+  },
+  "fullName": "Badal Sharma",
+  "email": "2000520130023@ietlucknow.ac.in",
+  "password": "d3bda0a4139ec58552538fec98f2acaf448f94945964a4c2949403d1dd87db19",
+  "profileImageURL": "/images/pngegg.png",
+  "role": "USER",
+  "createdAt": {
+    "$date": "2023-04-28T20:48:53.189Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-28T20:48:53.189Z"
+  },
+  "salt": "divyanshsharma",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c31d21dbff063fb96d119"
+  },
+  "fullName": "Badal Sharma",
+  "email": "divya@gmail.com",
+  "password": "fdaf1fdf4d7ed33e6b43f74c19a6e399a2f98fbd2a49d66c12ec018a0ac5272b",
+  "profileImageURL": "/images/pngegg.png",
+  "role": "USER",
+  "createdAt": {
+    "$date": "2023-04-28T20:51:30.081Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-28T20:51:30.081Z"
+  },
+  "salt": "divyanshsharma",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c326a67c63d412c3ff62e"
+  },
+  "fullName": "Abs",
+  "email": "Abs@gmail.com",
+  "password": "115d058eac71087f5ae735069caa35f21384dc8aab2aaa50f69f18c2f65fe917",
+  "profileImageURL": "/images/pngegg.png",
+  "role": "USER",
+  "createdAt": {
+    "$date": "2023-04-28T20:54:02.935Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-28T20:54:02.935Z"
+  },
+  "salt": "`\u0005�2ֈk.�;�.b\u0012>\u0002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c33150da64c7aa80f5c62"
+  },
+  "fullName": "A",
+  "email": "A@gmail.com",
+  "password": "8612a919f053140ccdbb6b3ee172ad5611811e615eb5cb0ebea90860cb1d59d6",
+  "profileImageURL": "/images/pngegg.png",
+  "role": "USER",
+  "createdAt": {
+    "$date": "2023-04-28T20:56:53.158Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-28T20:56:53.158Z"
+  },
+  "salt": "E\u0017�4f\u0012�=9������q",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644dfe6e2bb1aa86ab396a11"
+  },
+  "fullName": "Saumya Raj",
+  "email": "saumya052@gmail.com",
+  "password": "c273e772c1200a9ff8cae0cc6e0ebfff166fa4b2adb9f65d67ae1089ea15f7d2",
+  "profileImageURL": "/images/pngegg.png",
+  "role": "USER",
+  "createdAt": {
+    "$date": "2023-04-30T05:36:46.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-30T05:36:46.735Z"
+  },
+  "salt": "�4��ۯP��\u001bg\u0017����",
+  "__v": 0
+}]

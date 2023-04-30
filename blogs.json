@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "644cc6811c338b6c58d40dbc"
+  },
+  "title": "Is Web3 too Fragmented?",
+  "body": "Web3 has a problem. It's not the user experience, the lack of regulation, or even the prevalence of bots and scammers trying to steal people's crypto and NFTs. It's the fragmentation. Once upon a time, there was Bitcoin, the world's first digital currency. Things were simpler, if you wanted to own a true, native digital asset, you bought Bitcoin. In the subsequent years, some Bitcoin alternatives emerged, but there was just Bitcoin and not much else.\r\nConsolidation needs to come sooner rather than later to fulfill the potential of web3\r\nHalf a decade later, something new came along a brand new blockchain, which was so much more than a digital currency. It was a massively decentralized computer. Named Ethereum, it was a decentralized application platform. With the power of smart contracts, it enabled you not just to create your new digital assets, but entirely new types of financial applications as well as systems using a new decentralized governance model. \r\n \r\nBoth Bitcoin and Ethereum thrived in the years following their launch, with proponents and users of these networks embracing their narratives of digital cash and decentralized computation respectively. \r\n \r\nThese supporters focussed their energies on building communities and valuable products and applications utilizing these platforms. Others focussed on creating new abstractions to simplify their adoption, thus providing greater utility for their existing users and helping to onboard new users. \r\n \r\nWhilst the popularity of these technologies has grown, some felt that these platforms provided too many shortcomings and that they could create a superior platform. This resulted in several new blockchain networks emerging in the years following Bitcoin and Ethereum, all to provide a faster/more scalable/etc alternative. This has been particularly acute concerning Ethereum. The Bitcoin competitors have generally been derivatives of Bitcoin, with a few changes made by their creators. \r\n \r\nWhereas in the case of the decentralized applications platforms, you have several alternative layer one network (alt-layer1s) trying to position themselves as superior to Ethereum. This includes Binance Smart Chain, Cardano, Polkadot, and Solana. \r\n \r\nThere are several great minds working on these alt-layer1 platforms, and they are very genuine with their intentions. The issue is how it fragments the web3 landscape, with the potential to slow down the overall adoption of blockchain and related technologies, and in some cases tarnish society's broader perception of web3. \r\n \r\nIn hindsight, it was incredibly fortunate that the U.S. Government created the Internet. Initially focussed on linking military and academic networks in the 1970s. By the time it was made available for private sector and public consumption, there was a network in place with proven technologies such as TCP/IP and DNS serving as its backbone. The barriers to entry for creating an alternative to the Internet were too high, so entrepreneurs and businesses worked with this as their platform for innovation, which resulted in the creation of the world wide web, and all of the subsequent innovations and businesses that were built on top of it. \r\n \r\nIn the past couple of decades, we've seen software eating the world, with almost unlimited funding for companies from well-capitalized VCs. These funds have been used to create new internet-scale software platforms servicing an ever-increasing number of users and businesses (AWS, Google, etc). \r\n \r\nWhat this has meant is in the context of web3, when a new founding team comes along and says they believe they can build a superior network to Ethereum, there are plenty of investors willing to throw money in the ring because:\r\nThe founding team has a unique angle and track record\r\n\r\nTheir business model is based on taking bets — they accept that only 7.5% of their investments will pay off\r\n\r\nThey see it as an opportunity to generate a potential 100-1000x return based on the return early crypto investors had\r\n\r\nAs a result of this, we're now in an environment where there are multiple public blockchain networks all vying for users, where equivalent infrastructure is being ported or rebuilt on all of these different networks.\r\nInteroperability is also limited, where the transfer of assets between different platforms is clunky and comes with several risks — many of the major exploits in web3 have been via bridges between blockchains, which can be considered the Achilles heel of much of the public infrastructure. \r\n \r\nWe see it time and time again in software with technologists reinventing software frameworks, so this behavior is not uncommon. But given the work required to create and run a public blockchain network successfully, plus the network effect required for it to succeed. The pragmatist inside me believes that we would be better served by teams focussing on the layers and abstractions that can be created on top of an existing base network instead of creating alternatives. \r\n \r\nThis would enable web3 to evolve far faster than it is at present. So many resources are being spent investing in alternatives and trying to bridge different platforms, that the perception of many onlookers is simply that web3 has become too fragmented to double down on one platform.\r\nThis harms innovation, as it leaves many watching from the sidelines to conclude that they should wait until the landscape consolidates before doubling down on one network or technology. \r\n \r\nWe're fortunate that Ethereum's Virtual Machine has become standardized across much of web3, which is fostering a lot of innovation in the space. But this is not enough. Imagine if when the internet was created instead of a single global network, you had multiple private entities competing to create their global networks, each of them positioning themselves as superior to what had come before. \r\n \r\nInstead of private enterprises focussing on building browsers and search engines, we'd have been stuck in the trenches with them all creating their version of TCP/IP, or HTML and HTTP, with a lack of interoperability plaguing the wider adoptions of the technology.\r\nThis is the point it seems like we are in web3. There is an inevitability that we will see greater consolidation of platforms and protocols over time. Perhaps it's too optimistic to believe that we could standardize on just one public blockchain network with Ethereum as the primary settlement layer for web3, and Bitcoin retaining its position as digital gold. \r\n \r\nThis would allow other networks to remain in existence as layer two networks, that inherit the security guarantees of Ethereum. This approach would be beneficial for users of web3 who would have a consistent base platform across the board, and ensure that the primary focus of the layers that exist on top is to add ever-increasing capabilities and value for its users. Thus servicing the end user far better than we do currently, and helping web3 evolve faster to reach its true potential. \r\n \r\nHistory is littered with examples of where the best technology didn't win, and we need to reach a point where we commit to building on top of what we've got. After all, what's the point in continually optimizing something that has yet to reach its full potential? \r\n ",
+  "coverImageURL": "/uploads/1682753153314 - Is web3 too fragmented.webp",
+  "createdBy": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T07:25:53.344Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T07:25:53.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d73dd9a664a61ffa3c307"
+  },
+  "title": "Frontex policy on rights-abusing EU states 'not fit for purpose'",
+  "body": "Rules requiring the EU's border agency Frontex to suspend operations in member states where rights are being violated \"are not fit for purpose\", according to a European Commission official.\r\n\r\nThe comment was made to MEPs on Thursday (27 April) by Corinna Ullrich, a European Commission official from the internal affairs division DG Home.\r\n\r\nUllrich is carrying out an evaluation of the rules underpinning the Warsaw-based agency, which is aiming to have some 10,000 armed EU border guards under its command.\r\n\r\nAmong the rules is a so-called article 46 whereby the agency's executive director can terminate any activity if there are serious and persistent violations of fundamental rights.\r\n\r\n\"We are not sure that actually article 46 is really fit for purpose as it as it stands,\" she said.\r\n\r\n\"We also think it's a bit naive to think that this is a decision that can be taken by the executive director on his own,\" she said, noting that such decisions are political.\r\n\r\nFrontex has only once ever triggered the article, in early 2021, following a European Court of Justice ruling condemning Hungary over illegal pushbacks into Serbia.\r\n\r\nBut widespread reports of abuse in other border regions, such as in Greece, have failed to illicit a similar reaction.\r\n\r\nThe New York Times earlier this year revealed that the agency's top human rights chief had recommended it stop operating in Greece.\r\n\r\nAnd a recent report by the Greek Council for Refugees, an NGO, says that pushbacks of refugees to Turkey are widespread and involve humiliation, illegal detention and physical and sexual abuse.\r\n\r\nIn April, a Greek minister said some 270,000 people had been deterred from crossing the Evros border with Turkey in 2022.\r\n\r\nFrontex has over 500 standing corps officers and staff working in Greece, both at the mainland and on the islands in the Aegean.",
+  "coverImageURL": "/uploads/1682797533915 - 599688e1fd8f1c4dcdb86be08c5e57ae-800x450.jpg",
+  "createdBy": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T19:45:33.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T19:45:33.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d74219a664a61ffa3c30a"
+  },
+  "title": "What does the global debt crisis mean for the EU Global Gateway?",
+  "body": "With 60 percent of African countries spending more on debt repayment than on national healthcare, the EU should use Global Gateway financing to address structural issues rather than conversations about finance.\r\n\r\nWhile the EU debates what constitutes acceptable debt ratios among member states, questions arise about unsustainable debt in developing countries and what it might mean for the EU's Global Gateway project.",
+  "coverImageURL": "/uploads/1682797601412 - b720e04ec02c2971bdb95c2387816e35-800x.jpg",
+  "createdBy": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T19:46:41.415Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T19:46:41.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d76179a664a61ffa3c31c"
+  },
+  "title": "An interesting Czech vs Slovak split over China policy",
+  "body": "Just a few weeks after the speaker of the lower house of Czech Parliament, Markéta Pekarová-Adamová, led a 150-strong delegation to Taiwan, her Slovak counterpart, Boris Kollár, found himself on an official visit to China from 16-20 April. It may matter more than you think.\r\n\r\nCzechs and Slovaks share a common history and cultural ties, but their foreign policy outlooks are not always in sync. In the Czech Republic, the extravagant promises of Chinese investment never materialised and the former president Miloš Zeman's sycophancy toward Xi Jinping, whom he hosted at a extravagant state visit in 2016, provoked a wide revulsion.\r\n\r\nIn contrast, Slovakia has avoided a real debate about its relationship, economic and political, with China, straddling between more hawkish voices in its neighbourhood, most prominently Czech and Lithuanian ones, and the China doves in countries such as Hungary.\r\n\r\nBecause of Kollár's trip, Slovaks might finally have a conversation about the subject. That said, their answer to the China question may not be to the liking of those who would are hoping for a more unified European voice, ideally aligned with the emerging American consensus.\r\n\r\nNo controversial topics seem to have been raised at Kollár's official meetings in Beijing, including with China's vice president Han Zheng and with Zhao Leji, the head National People's Congress and the third-ranking member of the Politburo Standing Committee, which conveys a sense of Slovak deference.\r\n\r\nGiven that Slovakia is heading for an early election in September, Kollár seems understandably more interested in showcasing promises of new Chinese investment in the country.\r\n\r\nIt was announced during the visit that Leyard, a Chinese manufacturer of LED screens, was expanding its Slovak operations. Kollár also urged China Railways to consider Slovakia as a logistical and transit hub for its routes into the EU. Mentioning the Belt-and-Road high-speed railway connecting Budapest and Belgrade, he invited Chinese executives to Slovakia to consider connecting the country's capital with the Eastern city of Košice. Košice's outskirts, by the way, are already gearing up to host a new electric vehicle plant built by Volvo, a company under Chinese control.\r\n\r\nThere are Slovaks, including in Kollár's governing coalition, who are wary of deeper economic ties with China. It is unlikely, however, that those will control the levers of power for much longer. Like its leader, Kollár's party \"Sme Rodina\" [We Are Family] is a purely transactional, populist grouping untethered to any governing principles — but with a keen sense of where public opinion is moving.\r\n\r\nIt is not a coincidence that the speaker was accompanied on his visit by parliamentarians from opposition parties, currently polling far ahead of Kollár's current coalition partners. In particular, the presumptive winner of the election, \"Smer,\" [Direction] finds itself under an increasingly unhinged leadership of the former prime minister Robert Fico, who professes his admiration for Viktor Orbán and uses every occasion to lambast the United States, Nato, and the European Union.\r\n\r\nWhile readying for his return to office, Fico has led the charge against Slovakia's admirable assistance to Ukraine, including against the decision to provide its entire fleet of MiG-29 fighters to Ukrainian Armed Forces. Polling places Slovakia consistently among the most pro-Russian and anti-Western countries of the region — one survey found that a plurality of Slovaks (42 percent) blamed Nato for the war.",
+  "coverImageURL": "/uploads/1682798103056 - 72678d1e2e58abce1460ba9d92edef5d-480x.jpg",
+  "createdBy": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T19:55:03.060Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T19:55:03.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d7a169c4b11214dba26ac"
+  },
+  "title": "Pan card",
+  "body": "hi everyone where is your pan card",
+  "coverImageURL": "/uploads/1682799126015 - pan.jpg",
+  "createdBy": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T20:12:06.031Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T20:12:06.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644df7f2c380a2fc016dec6a"
+  },
+  "title": "ok",
+  "body": "fine",
+  "coverImageURL": "/uploads/1682831346758 - 599688e1fd8f1c4dcdb86be08c5e57ae-800x450.jpg",
+  "createdBy": {
+    "$oid": "644c29fd9e977ea44dfe91c2"
+  },
+  "createdAt": {
+    "$date": "2023-04-30T05:09:06.795Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-30T05:09:06.795Z"
+  },
+  "__v": 0
+}]
