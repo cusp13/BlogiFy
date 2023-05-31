@@ -10,7 +10,7 @@ const userRoute = require("./routes/user");
 const blogRoute = require("./routes/blog");
 
 const app=express();
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 8001;
 
 mongoose.connect("mongodb://127.0.0.1:27017/blogify")
 .then(e=>console.log("MongoDB connected"))
@@ -35,6 +35,6 @@ app.get("/",async(req,res)=>{
 app.use("/api",userRoute);
 app.use("/blog",blogRoute);
 
-app.listen(9001, ()=>{
+app.listen( 9007 || PORT , ()=>{
     console.log(`Server started at port: ${PORT}`)
 })
